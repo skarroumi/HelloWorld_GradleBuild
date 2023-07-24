@@ -1,0 +1,5 @@
+rootProject.name = 'HelloWrold_GradleBuild'
+include 'HelloWorld_GradleBuild_Module1'
+include 'HelloWorld_GradleBuild_Module2'
+include 'HelloWorld_GradleBuild_Module3'
+
